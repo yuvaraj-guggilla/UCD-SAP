@@ -1,1 +1,8 @@
+REPORT ZPRACTICE_GY3.
+
+DATA:
+lv_guid           TYPE crmt_object_guid,
+IV_OBJECT_KIND TYPE  CRMT_OBJECT_KIND,
+lt_text_o         TYPE crmt_text_wrkt.
+
 
